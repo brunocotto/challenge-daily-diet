@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    alt="Logo Explorer" 
+    alt="Logo Ignite" 
     title="Explorer" 
     src="https://i.imgur.com/jgM1K5Z.png"
   >
